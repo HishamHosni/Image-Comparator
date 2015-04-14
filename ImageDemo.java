@@ -10,7 +10,7 @@ import java.awt.image.BufferedImage;
 
 
 public class ImageDemo {
-public static void main(String[] args){//String original, String taken, String savedto) {
+public static void main(String[] args){
 	  System.out.println("Comparing Images Started.....");
     BufferedImage img,img2;
     boolean flag=false;
